@@ -17,16 +17,13 @@ function Home() {
 
             <div className=' lg:float-right'>
               <p className=' p-4'>
-                Lorem ipsum dolor sit amet consectetur, 
-                adipisicing elit. Omnis dignissimos placeat 
-                deserunt odio libero laborum nemo officia. 
-                Nam perspiciatis neque architecto suscipit 
-                error modi minus, debitis sequi, animi ex illum.
-                Lorem ipsum dolor sit amet consectetur, 
-                adipisicing elit. Omnis dignissimos placeat 
-                deserunt odio libero laborum nemo officia. 
-                Nam perspiciatis neque architecto suscipit 
-                error modi minus, debitis sequi, animi ex illum.
+              <span className=' text-lg text-blue-900 font-bold'>Edem Kwaku Avorley </span> 
+                  is my name,<br />I am a highly skilled IT professional with experience in many areas of IT in
+                  both corporate and client-facing environments.My technical expertise encompasses a wide range
+                  of areas, including hardware and software installations, network configuration and maintenance,
+                  programming ,system upgrades,Computer Security and user support. <br />Furthermore, I possess extensive knowledge
+                  of Windows and Linux operating systems, as well as proficiency in various software
+                  applications.
               </p>
 
               <div className=' w-full text-center mt-10'>
